@@ -442,6 +442,8 @@ K2复制的E-Marker可以通过连接电脑导出。
 
 在[官网](https://www.witrn.com/?p=2339)下载[WITRNPC固件升级软件V2.6(直链)](https://www.witrn.com/witrn/PC/WITRN_USBMeterUP_V26.rar)，**解压**后运行MeterUP.exe（只支持电脑WINDOWS系统运行，运行软件提示没.net的，会自动联网下载X86运行库（32/64位系统通用））
 
+[.net运行库国内下载地址](https://wwuu.lanzouo.com/iLkKD37d7sfe) 密码:net（微软那个土豆服务器天天下不动）
+
 ![MeterUp2](pictures/MeterUp2.png)
 
 将K2进入DFU模式[^6]，点击①选择要升级（或降级）的固件，点击②将固件写入到K2中，等待进度条走完提示更新完毕。固件在[官网](https://www.witrn.com/?p=2105#K2%E5%9B%BA%E4%BB%B6%E6%9B%B4%E6%96%B0log%EF%BC%88%E9%BB%98%E8%AE%A4%E6%8A%98%E5%8F%A0%EF%BC%8C%E7%82%B9%E5%87%BB%E5%B1%95%E5%BC%80%E8%AF%A6%E7%BB%86%E8%AF%B4%E6%98%8E%EF%BC%89)下载。
@@ -452,13 +454,27 @@ K2复制的E-Marker可以通过连接电脑导出。
 
 ### 目录
 
-- [8.1 如何连接上位机](#81-如何连接上位机)
+- [8.1 如何使用上位机](#81-如何使用上位机)
 
-### 8.1 如何连接上位机
+### 8.1 如何安装上位机
 
-在[官网](https://www.witrn.com/?p=873)下载[WITRN上位机曲线软件V3.1(直链)](https://www.witrn.com/witrn/PC/Meter_soft_V3.1.rar)，**解压**后运行WITRN.exe（只支持电脑WINDOWS系统运行，软件运行提示缺少.net core运行库的，联网安装运行库即可，安装X86版本，兼容x64）
+在[官网](https://www.witrn.com/?p=873)下载[WITRN上位机曲线软件V3.1(直链)](https://www.witrn.com/witrn/PC/Meter_soft_V3.1.rar)
 
-直接使用数据线连接电脑和HID就可以使用上位机。由于上位机功能过多，目前仅提供[官方说明](https://www.witrn.com/?p=873)供参考。
+### 使用上位机
+**解压**后运行WITRN.exe,现版本只支持电脑WINDOWS系统运行，软件运行提示缺少.net core运行库的，联网安装运行库即可，安装X86版本，兼容x64
+
+[.net运行库国内下载地址](https://wwuu.lanzouo.com/iLkKD37d7sfe) 密码:net（微软那个土豆服务器天天下不动）
+
+直接使用数据线连接电脑和HID就可以使用上位机。由于上位机功能过多，目前做界面介绍，详情请看[官方说明](https://www.witrn.com/?p=873)
+上位机界面介绍
+
+上位机主界面
+
+![witrn1](pictures/witrn1.png)
+
+曲线设置界面
+
+![witrn2](pictures/witrn2.png)
 
 <div style="page-break-before: always;"></div>
 
